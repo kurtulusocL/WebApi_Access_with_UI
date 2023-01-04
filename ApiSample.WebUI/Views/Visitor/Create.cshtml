@@ -1,0 +1,29 @@
+﻿@model VisitorDto
+@{
+    ViewData["Title"] = "Add A New Visitor";
+}
+
+<div class="container">
+    <div class="row">
+        <h3>@ViewData["Title"]</h3>
+        <hr />
+        <div class="col-md-12">
+            <form method="post">
+                <label>Name Surname</label>
+                <input type="text" class="form-control" asp-for="NameSurname" />
+                <br>
+                <label>Identity Number</label>
+                <input type="text" class="form-control" asp-for="IdentityNo" />
+                <br />
+                <label>Email Address</label>
+                <input type="email" class="form-control" asp-for="Email" />
+                <br />
+                <label>Phone Number</label>
+                <input type="text" class="form-control" asp-for="PhoneNumber" />
+                <hr />
+                <button type="submit" class="btn btn-outline-success">Add Visitor</button>
+                <a asp-controller="Visitor" asp-action="Index" class="btn btn-outline-dark">Go to Visitors</a>
+            </form>
+        </div>
+    </div>
+</div>

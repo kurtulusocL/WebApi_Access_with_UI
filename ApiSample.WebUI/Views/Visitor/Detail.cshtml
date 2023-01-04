@@ -1,0 +1,20 @@
+﻿@model VisitorDto
+@{
+    ViewData["Title"] = "Visitor Detail";
+}
+
+<div class="container">
+    <div class="row">
+        @ViewData["Title"]
+        <hr />
+        <dl class="row">
+            <dt class="col-sm-4">
+                Created At
+            </dt>
+            <dd class="col-sm-8">
+                @Model.CreatedDate.ToShortDateString()
+            </dd>
+        </dl>
+    </div>
+    <a asp-controller="Visitor" asp-action="Index" class="btn btn-outline-dark">Go to Visitors</a>
+</div>

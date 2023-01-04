@@ -1,0 +1,17 @@
+C:\Users\kurtulusocL\Desktop\ApiSample\ApiSample.Entities\bin\Debug\net6.0\ApiSample.Entities.deps.json
+C:\Users\kurtulusocL\Desktop\ApiSample\ApiSample.Entities\bin\Debug\net6.0\ApiSample.Entities.runtimeconfig.json
+C:\Users\kurtulusocL\Desktop\ApiSample\ApiSample.Entities\bin\Debug\net6.0\ApiSample.Entities.dll
+C:\Users\kurtulusocL\Desktop\ApiSample\ApiSample.Entities\bin\Debug\net6.0\ApiSample.Entities.pdb
+C:\Users\kurtulusocL\Desktop\ApiSample\ApiSample.Entities\bin\Debug\net6.0\ApiSample.Core.dll
+C:\Users\kurtulusocL\Desktop\ApiSample\ApiSample.Entities\bin\Debug\net6.0\ApiSample.Core.pdb
+C:\Users\kurtulusocL\Desktop\ApiSample\ApiSample.Entities\obj\Debug\net6.0\ApiSample.Entities.csproj.AssemblyReference.cache
+C:\Users\kurtulusocL\Desktop\ApiSample\ApiSample.Entities\obj\Debug\net6.0\ApiSample.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kurtulusocL\Desktop\ApiSample\ApiSample.Entities\obj\Debug\net6.0\ApiSample.Entities.AssemblyInfoInputs.cache
+C:\Users\kurtulusocL\Desktop\ApiSample\ApiSample.Entities\obj\Debug\net6.0\ApiSample.Entities.AssemblyInfo.cs
+C:\Users\kurtulusocL\Desktop\ApiSample\ApiSample.Entities\obj\Debug\net6.0\ApiSample.Entities.csproj.CoreCompileInputs.cache
+C:\Users\kurtulusocL\Desktop\ApiSample\ApiSample.Entities\obj\Debug\net6.0\ApiSample.Entities.csproj.CopyComplete
+C:\Users\kurtulusocL\Desktop\ApiSample\ApiSample.Entities\obj\Debug\net6.0\ApiSample.Entities.dll
+C:\Users\kurtulusocL\Desktop\ApiSample\ApiSample.Entities\obj\Debug\net6.0\refint\ApiSample.Entities.dll
+C:\Users\kurtulusocL\Desktop\ApiSample\ApiSample.Entities\obj\Debug\net6.0\ApiSample.Entities.pdb
+C:\Users\kurtulusocL\Desktop\ApiSample\ApiSample.Entities\obj\Debug\net6.0\ApiSample.Entities.genruntimeconfig.cache
+C:\Users\kurtulusocL\Desktop\ApiSample\ApiSample.Entities\obj\Debug\net6.0\ref\ApiSample.Entities.dll
